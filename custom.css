@@ -1,0 +1,71 @@
+body {
+	margin-top:20px;
+    background-image:url("bg.gif");
+    background-repeat:repeat;
+}
+
+blockquote {
+	border-left-color:rgb(223, 240, 216);
+}
+
+h3 {
+	color:rgb(70, 136, 71);
+}
+
+hr {
+	border-top-color:rgb(70, 136, 71);
+	border-top-width:1px;
+}
+
+a {
+	color: rgb(34, 136, 99);
+}
+
+a:hover {
+	color: rgb(34, 174, 137);
+	text-decoration:none;
+}
+
+li {
+    text-align:justify;
+}
+
+.custom-border-panel {
+    border-color:rgb(57, 132, 57);
+}
+
+.custom-no-margin-bottom {
+	margin-bottom:0;
+}
+
+.custom-no-margin-top {
+	margin-top:0;
+}
+
+.position {
+	font-size:17px;
+    font-weight:bold;
+}
+
+.company {
+	font-size:14px;
+}
+
+.subtext {
+	color:rgb(143,143,143);
+	font-size:12px;
+}
+
+.description {
+	margin-top:10px;
+	font-size:13px;
+}
+
+.description > p {
+    font-size:13px;
+    text-align:justify;
+}
+
+ul.small-margin {
+    margin-left:-20px;
+}
