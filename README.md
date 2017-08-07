@@ -2,6 +2,13 @@
 My online CV, deployed at : http://cv.garnier.wf
 
 ## Suivi
+### TODO :
+- Simplify (white + green, cf blog)
+- Make it responsive with flex
+- add pivotal
+- add coursera
+- rework timsoft
+
 ### 22/02/2015
 - Déclarer dans google business
 - Travailler le référencement
